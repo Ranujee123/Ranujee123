@@ -58,9 +58,7 @@
 
 <br/>
 
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranujee123&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" height="150" alt="commits graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranujee123&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
