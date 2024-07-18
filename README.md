@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋!</h1>
 <h2 align="center">I am Vidhara Ranujee, a third year undergraduate at UCSC</h2>
 
@@ -8,10 +10,34 @@
 ###
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranujee123&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranujee123&theme=dracula" height="150" alt="languages graph" />
+<!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranujee123&theme=dracula" height="150" alt="most commit languages graph" />-->
+</div>
+
+
+
+
+
+<!-- <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranujee123&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranujee123&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+
+###-->
+
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranujee123&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranujee123&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>-->
+
+
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranujee123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranujee123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+-->
 ###
 
 <div align="left">
@@ -52,6 +78,10 @@
   </a>
   <a href="https://facebook.com/vidhara.ranujee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <a href="mailto:vidharahallala@gamil.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
  <!--  </a>
   <a href="vidharahallala@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />-->
@@ -62,10 +92,15 @@
 
 <br/>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranujee123&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
+###-->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ranujee123&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+</div>
 <br/>
 
 
