@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋!</h1>
-<h2 align="center">My name is Vidhara Ranujee and I'm a third year undergraduate at UCSC</h2>
+<h2 align="center">I am Vidhara Ranujee, a third year undergraduate at UCSC</h2>
+
+- 🔭 I’m currently working on [project Dehati](https://github.com/orgs/Dehati-1-0)
+
+
 
 ###
 
@@ -48,9 +52,9 @@
   </a>
   <a href="https://facebook.com/vidhara.ranujee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-   </a>
+ <!--  </a>
   <a href="vidharahallala@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />-->
 </div>
 
 ###
